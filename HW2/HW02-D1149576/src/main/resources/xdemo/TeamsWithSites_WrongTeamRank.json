@@ -1,0 +1,103 @@
+{
+  "AL":[
+    {
+      "name": "NYY",
+      "rank": 1,
+      "seats": 46537,
+      "playoffs": 100,
+      "world": 100,
+      "winrate": 58.0
+    },
+    {
+      "name": "CLE",
+      "rank": 2,
+      "seats": 34788,
+      "playoffs": 95,
+      "world": 100,
+      "winrate": 57.1
+    },
+    {
+      "name": "HOU",
+      "rank": 3,
+      "seats": 41168,
+      "playoffs": 99,
+      "world": 100,
+      "winrate": 58.0
+    },
+    {
+      "name": "BAL",
+      "rank": 4,
+      "seats": 45971,
+      "playoffs": 90,
+      "world": 95,
+      "winrate": 56.2
+    },
+    {
+      "name": "KC",
+      "rank": 5,
+      "seats": 37903,
+      "playoffs": 90,
+      "world": 98,
+      "winrate": 53.1
+    },
+    {
+      "name": "DET",
+      "rank": 8,
+      "seats": 41083,
+      "playoffs": 85,
+      "world": 95,
+      "winrate": 53.1
+    }
+  ]
+,
+  "NL":[
+    {
+      "name": "LAD",
+      "rank": 1,
+      "seats": 56000,
+      "playoffs": 98,
+      "world": 100,
+      "winrate": 60.5
+    },
+    {
+      "name": "PHI",
+      "rank": 2,
+      "seats": 42791,
+      "playoffs": 100,
+      "world": 100,
+      "winrate": 58.6
+    },
+    {
+      "name": "MIL",
+      "rank": 3,
+      "seats": 41900,
+      "playoffs": 92,
+      "world": 95,
+      "winrate": 57.4
+    },
+    {
+      "name": "SD",
+      "rank": 4,
+      "seats": 40209,
+      "playoffs": 97,
+      "world": 100,
+      "winrate": 57.4
+    },
+    {
+      "name": "ATL",
+      "rank": 5,
+      "seats": 41084,
+      "playoffs": 98,
+      "world": 100,
+      "winrate": 54.9
+    },
+    {
+      "name": "NYM",
+      "rank": 6,
+      "seats": 41922,
+      "playoffs": 95,
+      "world": 100,
+      "winrate": 54.9
+    }
+  ]
+}
