@@ -3,7 +3,6 @@ import org.json.simple.JSONObject;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.Collection;
 import org.json.simple.parser.*;
 import java.io.FileReader;
 import java.util.Collections;
@@ -21,7 +20,7 @@ public class Main {
         ArrayList<team> ALteam = new ArrayList<>();
         ArrayList<team> NLteam = new ArrayList<>();
         Object o = new Object();
-        try{o = new JSONParser().parse(new FileReader("/Users/graytsao/Documents/softwaretesting/HW1/src/main/java/org/example/team.json"));}
+        try{o = new JSONParser().parse(new FileReader("src/main/java/org/example/team.json"));}
         catch(FileNotFoundException e){System.out.println("請檢查檔案位置是否正確");}
         JSONObject j = (JSONObject)o;
         try{
